@@ -4,6 +4,10 @@
 - [课件列表](/1. 课件/)
 - [章节笔记](/2. 笔记和讨论/章节笔记.md)
 - [作业和测验](/3. 作业和测验/)
+
+## 链接 (外部)
+
+- [课程页面](http://www.icourse163.org/learn/whu-20011)
 - [证书展示页面 (icourse163.org)](http://www.icourse163.org/cert/Authority.htm?certNo=V201562000012)
 - [证书验证页面 (icourse163.org)](http://www.icourse163.org/verify/V201562000012#/verifyResult)
 
