@@ -32,8 +32,6 @@
 
 ## 认证证书
 
-![cert](/Cert_Gu_Lu_low.jpg)
-
 - [证书展示页面](http://www.icourse163.org/cert/Authority.htm?certNo=V201562000012)
 - [证书验证页面](http://www.icourse163.org/verify/V201562000012#/verifyResult)
 
