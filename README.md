@@ -5,6 +5,9 @@
 - [章节笔记](/2. 笔记和讨论/章节笔记.md)
 - [作业和测验](/3. 作业和测验/)
 
+- [证书展示页面](http://www.icourse163.org/cert/Authority.htm?certNo=V201562000012)
+- [证书验证页面](http://www.icourse163.org/verify/V201562000012#/verifyResult)
+
 ## 日志
 
 - [2015-03-04] 《中国文化概论》第一周 导论：“中国文化”概说 
@@ -29,11 +32,6 @@
 - [2015-07-05] 《中国文化概论》公布综合学科 成绩 83 分，已申请优秀证书（80分以上可申请）
 - [2015-07-18] 《中国文化概论》结课考试和作业整理完成，地址在[这里](https://github.com/mc-gulu/mooc_chinese_culture)。
 - [2015-07-25] 《中国文化概论》拿到证书，地址在[这里](http://www.icourse163.org/cert/Authority.htm?certNo=V201562000012)。
-
-## 认证证书
-
-- [证书展示页面](http://www.icourse163.org/cert/Authority.htm?certNo=V201562000012)
-- [证书验证页面](http://www.icourse163.org/verify/V201562000012#/verifyResult)
 
 ## 授课大纲
 
